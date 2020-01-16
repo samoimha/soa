@@ -1,2 +1,2 @@
 # soa
-Service.Oriented.Architecture
+Service Oriented Architecture
