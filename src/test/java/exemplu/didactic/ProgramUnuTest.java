@@ -8,6 +8,6 @@ public class ProgramUnuTest {
 
 		@Test
 		public void programUnuTest() {
-			assertEquals("am facut partea comunaam facut parte program unu",ProgramUnu.programUnu());
+			assertEquals("am facut partea comuna.am facut parte program unu",ProgramUnu.programUnu());
 		}
 }
